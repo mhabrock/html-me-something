@@ -1,0 +1,36 @@
+h2{ 
+	color:purple;
+	font-family: Comic Sans MS;
+	 }
+
+
+#main-header{
+	text-align: center;
+	color:purple;
+	font-size: 40px;
+	font-family: Comic Sans MS;
+}
+
+body{
+	background:#ff66ff;
+}
+
+p{
+	font-family: Comic Sans MS;
+	font-size:20px;
+	margin-top: 5px;
+	margin-right: 30px;
+	margin-left: 20px;
+}
+
+.time-block{
+		float: left;
+		width:50%;
+		padding:5px;
+		box-sizing:border-box;
+		}
+
+img{
+	width: 300px;
+	height: 200px;
+}
